@@ -2,6 +2,8 @@
 
 A modern, investor-ready web application for Gen Z financial services. Savr combines education, investing, and goal-based saving into one seamless platform.
 
+https://github.com/user-attachments/assets/b5a23cee-57b1-469a-b651-e5772122606b
+
 ## 🚀 Features
 
 - **Academy**: Gamified micro-lessons for financial education
