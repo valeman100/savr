@@ -127,21 +127,6 @@ src/
 - Expandable FAQ section
 - Social media links
 
-## 🎨 Customization
-
-### Brand Colors
-Update the color scheme in `src/index.css`:
-```css
-:root {
-  --primary-blue: #0D8CFE;
-  --primary-green: #8FDE02;
-  --primary-yellow: #F2F50E;
-}
-```
-
-### Theme Configuration
-Modify the Material-UI theme in `src/App.tsx` to match your brand requirements.
-
 ## 📱 Responsive Design
 
 The application is designed to be responsive and works well on:
@@ -156,39 +141,8 @@ The application is designed to be responsive and works well on:
 npm run build
 ```
 
-### Deploy to Netlify
-1. Connect your repository to Netlify
-2. Set build command: `npm run build`
-3. Set publish directory: `build`
-
-### Deploy to Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run: `vercel`
-
-## 🔧 Development
-
-### Available Scripts
-
-- `npm start` - Runs the app in development mode
-- `npm test` - Launches the test runner
-- `npm run build` - Builds the app for production
-- `npm run eject` - Ejects from Create React App (one-way operation)
-
-### Code Style
-
-- Use TypeScript for all components
-- Follow Material-UI best practices
-- Use Framer Motion for animations
-- Maintain consistent component structure
-
 ## 📄 License
 
 This project is proprietary and confidential. All rights reserved.
-
-## 🤝 Contributing
-
-This is a demo/pitch application. For collaboration opportunities, please contact the team through the contact form on the website.
-
----
 
 **Savr** - Financial freedom made simple for the next generation. 
